@@ -39,8 +39,18 @@ For more information about installations visit the [jitpack website](https://jit
 => To use this addon, just import it in the header of your file.
 
 => If you want a shadow on text just make a DropShadowText() and you can edit it as a Text component
+```
+DropShadowText(
+    text = "Put your text",
+    color = Color.Green,
+    fontSize = 34.sp
+   )
+```
 
 => If you want a shadow on text just make a DropShadowIcon() and you can edit it as a Icon component
+```
+ DropShadowIcon(Icon = R.drawable.yourIcon)
+```
 
 ## Jitpack Link
 
