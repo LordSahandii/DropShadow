@@ -56,6 +56,12 @@ DropShadowText(
 
 https://jitpack.io/#LordSahandii/DropShadow/1.0.1
 
+## Developers
+- Lorenz Castillo
+- Sahand Hajiseyedi
+- Sukhmandeep Singh
+- Kelsey Zirk
+
 ## License
 
 MIT
